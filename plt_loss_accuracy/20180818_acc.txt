@@ -1,0 +1,7 @@
+ Iteration 10000, Testing net (#0)	Test net output #0: detection_eval = 0.155435
+ Iteration 20000, Testing net (#0)	Test net output #0: detection_eval = 0.225657
+ Iteration 30000, Testing net (#0)	Test net output #0: detection_eval = 0.244955
+ Iteration 40000, Testing net (#0)	Test net output #0: detection_eval = 0.30178
+ Iteration 50000, Testing net (#0)	Test net output #0: detection_eval = 0.333199
+ Iteration 60000, Testing net (#0)	Test net output #0: detection_eval = 0.358103
+ Iteration 70000, Testing net (#0)	Test net output #0: detection_eval = 0.363753

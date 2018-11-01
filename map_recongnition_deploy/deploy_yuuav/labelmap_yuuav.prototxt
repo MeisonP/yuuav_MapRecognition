@@ -1,0 +1,127 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "river"
+  label: 1
+  display_name: "river"
+}
+item {
+  name: "building"
+  label: 2
+  display_name: "building"
+}
+item {
+  name: "tree"
+  label: 3
+  display_name: "tree"
+}
+item {
+  name: "track"
+  label: 4
+  display_name: "track"
+}
+item {
+  name: "road"
+  label: 5
+  display_name: "road"
+}
+item {
+  name: "football court"
+  label: 6
+  display_name: "football court"
+}
+item {
+  name: "zebra crossing"
+  label: 7
+  display_name: "zebra crossing"
+}
+item {
+  name: "car"
+  label: 8
+  display_name: "car"
+}
+item {
+  name: "grass"
+  label: 9
+  display_name: "grass"
+}
+item {
+  name: "swimming pool"
+  label: 10
+  display_name: "swimming pool"
+}
+item {
+  name: "park with car"
+  label: 11
+  display_name: "park with car"
+}
+item {
+  name: "rubbish dump"
+  label: 12
+  display_name: "rubbish dump"
+}
+
+item {
+  name: "basketball court"
+  label: 13
+  display_name: "basketball court"
+}
+
+item {
+  name: "boat"
+  label: 14
+  display_name: "boat"
+}
+item {
+  name: "tennis court"
+  label: 15
+  display_name: "tennis court"
+}
+item {
+  name: "park without car"
+  label: 16
+  display_name: "park without car"
+}
+item {
+  name: "speed bump"
+  label: 17
+  display_name: "speed bump"
+}
+
+item {
+  name: "bus"
+  label: 18
+  display_name: "bus"
+}
+item {
+  name: "badminton court"
+  label: 19
+  display_name: "badminton court"
+}
+item {
+  name: "ahead"
+  label: 20
+  display_name: "ahead"
+}
+
+item {
+  name: "bridge"
+  label: 21
+  display_name: "bridge"
+}
+
+item {
+  name: "w"
+  label: 22
+  display_name: "w"
+}
+
+
+
+
+
+
+

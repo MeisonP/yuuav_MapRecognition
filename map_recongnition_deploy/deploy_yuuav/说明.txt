@@ -1,0 +1,1 @@
+根目录下缺少文件：VGG_YUUAV_SSD_300x300_iter_50000.caffemodel

@@ -1,0 +1,205 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "river"
+  label: 1
+  display_name: "river"
+}
+item {
+  name: "building"
+  label: 2
+  display_name: "building"
+}
+item {
+  name: "tree"
+  label: 3
+  display_name: "tree"
+}
+item {
+  name: "track"
+  label: 4
+  display_name: "track"
+}
+item {
+  name: "road"
+  label: 5
+  display_name: "road"
+}
+item {
+  name: "football court"
+  label: 6
+  display_name: "football court"
+}
+item {
+  name: "zebra crossing"
+  label: 7
+  display_name: "zebra crossing"
+}
+item {
+  name: "car"
+  label: 8
+  display_name: "car"
+}
+item {
+  name: "grass"
+  label: 9
+  display_name: "grass"
+}
+item {
+  name: "swimming pool"
+  label: 10
+  display_name: "swimming pool"
+}
+item {
+  name: "park with car"
+  label: 11
+  display_name: "park with car"
+}
+item {
+  name: "rubbish dump"
+  label: 12
+  display_name: "rubbish dump"
+}
+item {
+  name: "rs ahead right"
+  label: 13
+  display_name: "rs ahead right"
+}
+item {
+  name: "basketball court"
+  label: 14
+  display_name: "basketball court"
+}
+item {
+  name: "rs ahead"
+  label: 15
+  display_name: "rs ahead"
+}
+item {
+  name: "boat"
+  label: 16
+  display_name: "boat"
+}
+item {
+  name: "tennis court"
+  label: 17
+  display_name: "tennis court"
+}
+item {
+  name: "park without car"
+  label: 18
+  display_name: "park without car"
+}
+item {
+  name: "speed bump"
+  label: 19
+  display_name: "speed bump"
+}
+item {
+  name: "rubish dump"
+  label: 20
+  display_name: "rubish dump"
+}
+item {
+  name: "bus"
+  label: 21
+  display_name: "bus"
+}
+item {
+  name: "badminton court"
+  label: 22
+  display_name: "badminton court"
+}
+item {
+  name: "ahead"
+  label: 23
+  display_name: "ahead"
+}
+item {
+  name: "baketball court"
+  label: 24
+  display_name: "baketball court"
+}
+item {
+  name: "bridge"
+  label: 25
+  display_name: "bridge"
+}
+item {
+  name: "zebra crosing"
+  label: 26
+  display_name: "zebra crosing"
+}
+item {
+  name: "rs letf"
+  label: 26
+  display_name: "rs letf"
+}
+item {
+  name: "w"
+  label: 28
+  display_name: "w"
+}
+item {
+  name :"loop wheel machine"
+  label: 29
+  display_name: "loop wheel machine"
+}
+item {
+  name: "rs left"
+  label: 30
+  display_name: "rs left"
+}
+item {
+  name: "rs left right"
+  label: 31
+  display_name: "rs left right"
+}
+item {
+  name: "ww"
+  label: 32
+  display_name: "ww"
+}
+item {
+  name: "rs left ahead"
+  label: 33
+  display_name: "rs left ahead"
+}
+item {
+  name: "rs left ahead right"
+  label: 34
+  display_name: "rs left ahead right"
+}
+item {
+  name: "rs back"
+  label: 35
+  display_name: "rs back"
+}
+item {
+  name: "tv"
+  label: 36
+  display_name: "tv"
+}
+item {
+  name: "rs right"
+  label: 37
+  display_name: "rs right"
+}
+item {
+  name: "left ahead"
+  label: 38
+  display_name: "left ahead"
+}
+item {
+  name: "speed dump"
+  label: 39
+  display_name: "speed dump"
+}
+item {
+  name: "glass"
+  label: 40
+  display_name: "glass"
+}

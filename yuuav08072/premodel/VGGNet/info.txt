@@ -1,0 +1,2 @@
+here, this path should have a file：
+VGG_ILSVRC_16_layers_fc_reduced.caffemodel
